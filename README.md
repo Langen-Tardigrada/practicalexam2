@@ -1,1 +1,3 @@
-# practicalexam2
+Name: Kansiree Lee
+Student ID:610610568
+2107302964161380
